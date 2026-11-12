@@ -663,6 +663,14 @@ nav a:hover {
 
 }
 
+.memory-caption h3 {
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: 28px;
+
+    font-weight: 500;
+}
+
 
 /* =========================
    FINAL
@@ -1191,3 +1199,4 @@ footer {
         font-size: 14px;
     }
 }
+

@@ -232,3 +232,4 @@ function updateRelationshipCounter() {
 // تحديث العداد فور فتح الصفحة، وبعدها كل ثانية
 updateRelationshipCounter();
 setInterval(updateRelationshipCounter, 1000);
+
